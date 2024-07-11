@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at zhihu [义臻](https://www.zhihu.com/people/hulianwangzhaopin) or [Linkedin](https://www.linkedin.com/in/eason-x-65120aa8/)
 - An open-source project by me：[GO ECIES ENCRYPTION](https://github.com/hotstar/ecies)
+- A solid common SSM Java Demo by me: [https://github.com/EasonXeu/ssmDemo]
 <!---
 EasonXeu/EasonXeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
