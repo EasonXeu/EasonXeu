@@ -31,7 +31,7 @@ In my spare time, I actively share technical insights through **blogs**, **cours
 - ✍️ Technical blogs on:
   - [Java Development](https://www.zhihu.com/column/yizhenn)  
   - [Cloud Security & Architecture](https://www.zhihu.com/column/cloudcomputing)
-  - [CSDN(Not updated)](https://blog.csdn.net/yizhenn)
+  - [CSDN(No longer updated)](https://blog.csdn.net/yizhenn)
 
 #### ⭐ Selected Projects:
 - [GO ECIES ENCRYPTION](https://github.com/hotstar/ecies) – Secure ECIES implementation in Go  
