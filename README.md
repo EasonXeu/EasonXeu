@@ -4,7 +4,7 @@ I’m a software engineer with **8 years of hands-on experience**, having worked
 
 ### 💼 Engineering Background
 
-At **Alibaba Cloud**, I lead and contributed to the design and development of several key authentication systems:
+At **Alibaba Cloud**, I led and contributed to the design and development of several key authentication systems:
 
 - **AccessKey** – A mission-critical, high-availability authentication system that sustained **3B+ QPS** and served as the **security backbone** of the platform.  
 - **Login Center** – Provided centralized login management to all IAM users.
