@@ -34,7 +34,7 @@ In my spare time, I actively share technical insights through **blogs**, **cours
   - [CSDN(No longer updated)](https://blog.csdn.net/yizhenn)
   - [My Previous Github](https://github.com/ZhenShiErGe/ConnectionPool)
 
-#### ⭐ Selected Projects:
+### ⭐ Selected Projects:
 - [GO ECIES ENCRYPTION](https://github.com/hotstar/ecies) – Secure ECIES implementation in Go  
 - [SSM Java Demo](https://github.com/EasonXeu/ssmDemo) – Classic Spring + MyBatis scaffold  
 - [Gin Go Demo](https://github.com/EasonXeu/go-web-demo) – Starter template using Go & Gin  
