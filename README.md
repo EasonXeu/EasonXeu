@@ -32,7 +32,7 @@ In my spare time, I actively share technical insights through **blogs**, **cours
   - [Java Development](https://www.zhihu.com/column/yizhenn)  
   - [Cloud Security & Architecture](https://www.zhihu.com/column/cloudcomputing)
   - [CSDN(No longer updated)](https://blog.csdn.net/yizhenn)
-  - [My Previous Github](https://github.com/ZhenShiErGe/ConnectionPool)
+  - [My Previous Github](https://github.com/ZhenShiErGe)
 
 ### ⭐ Selected Projects:
 - [GO ECIES ENCRYPTION](https://github.com/hotstar/ecies) – Secure ECIES implementation in Go  
