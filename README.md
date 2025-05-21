@@ -44,6 +44,4 @@ In my spare time, I actively share technical insights through **blogs**, **cours
 ---
 
 📫 **Let’s Connect**
-
-- Zhihu: [义臻](https://www.zhihu.com/column/cloudcomputing)  
 - LinkedIn: [Eason X](https://www.linkedin.com/in/eason-x-65120aa8/)
